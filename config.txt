@@ -1,4 +1,4 @@
-﻿token=NTY4MTQ0Mjc1ODk2Nzk1MTM4.XLdzuQ.QAY1MWyHpiNgHLkuptuxe3mKFtg 
+token=NTY4MTQ0Mjc1ODk2Nzk1MTM4.XLd1vA.HtwqLso28cJlBgIrwAJizBTmOJA
 owner=514588568006426645
 prefix= 1
 game= تست
